@@ -1,34 +1,41 @@
-👋 Olá, eu sou [Seu Nome]!
-🎓 Estudante de Ciência da Computação apaixonado por tecnologia, design e desenvolvimento web.
-🚀 Atualmente focado em evoluir minhas habilidades em Front-end e UI/UX Design.
-📚 Explorando novas tecnologias e criando projetos para aprender cada vez mais!
+✨ Olá, eu sou o [Seu Nome]!
+🎓 Estudante de Ciência da Computação
+💻 Focado em Desenvolvimento Web, Front-end e UI/UX Design
+🚀 Apaixonado por criar interfaces e experiências incríveis
 
-🛠️ Tecnologias e Ferramentas que estou estudando:
-HTML5 / CSS3
+🚀 Tecnologias e Ferramentas que estou explorando:
+<div style="display: flex; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> </div>
+📚 Sobre mim
+👨‍🎓 Atualmente cursando Ciência da Computação
 
-JavaScript
+📖 Estudando React.js e fundamentos de UI/UX
 
-React.js
+🎯 Foco em construir projetos práticos para acelerar o aprendizado
 
-UI/UX Design (Fundamentos de usabilidade e experiência do usuário)
+🛠️ Primeiro projeto: Card Memory App para estudar Dietética
 
-(Adicione mais tecnologias conforme for aprendendo, tipo TailwindCSS, Figma, etc.)
+📈 Meus objetivos
+🔥 Dominar tecnologias front-end
 
-🎯 Objetivos
-Consolidar meus conhecimentos em desenvolvimento web
+🔥 Melhorar cada vez mais minhas habilidades em design de interfaces
 
-Construir projetos práticos que ajudem no meu aprendizado
+🔥 Trabalhar na área enquanto continuo evoluindo como desenvolvedor
 
-Contribuir com a comunidade open-source no futuro
+📫 Onde me encontrar:
 
-Trabalhar profissionalmente como desenvolvedor front-end
+📧 Email: seu-email@example.com
 
-🌱 Atualmente estou:
-Desenvolvendo meu primeiro projeto em React: um app de card memory para estudar Dietética 📚
+✨ "Transformando ideias em código, e código em realidade!"
 
-Aprendendo mais sobre boas práticas de design de interfaces e acessibilidade web
+⚡ Fun facts
+Amo aprender coisas novas 🎯
 
-📫 Como me encontrar
-LinkedIn (coloque seu link aqui)
+Café + Código = ❤️
 
-E-mail (coloque seu e-mail aqui)
+Sonho em participar de projetos que causem impacto positivo no mundo 🌎
+
+🛠️ Status atual:
+
+🚀 Pequeno aviso:
+Este perfil está em constante evolução!
+Cada projeto é um passo a mais nessa jornada incrível.
