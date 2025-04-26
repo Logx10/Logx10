@@ -1,4 +1,4 @@
-✨ Olá, eu sou o [Seu Nome]!
+✨ Olá, eu sou o Leandro!
 🎓 Estudante de Ciência da Computação
 💻 Focado em Desenvolvimento Web, Front-end e UI/UX Design
 🚀 Apaixonado por criar interfaces e experiências incríveis
